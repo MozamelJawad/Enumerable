@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 
 ## 🔭Features <a name="future-features"></a>
 
-- **MAdditonal methods like #max, #min, and #sort**
+- **Additonal methods like #max, #min, and #sort**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
