@@ -1,4 +1,4 @@
-# Morse-Decode
+# Enumerable
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -15,9 +15,9 @@
 
 <!-- PROJECT DESCRIPTION -->
     
-# 📖 Morse-Decode <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-The Morse-Decode is the first project in Ruby, in this project we solve the basic coding challenge.
+In this project we replicated the method thus #all?, #any? and filter in my enumerable module.
 
 ## 🛠 Built With <a name="built-with"></a>
 * Ruby
@@ -33,9 +33,10 @@ The Morse-Decode is the first project in Ruby, in this project we solve the basi
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Run a program using the command line.**
-- **Use Ruby syntax for basic programming operations.**
-- **Use Ruby to solve basic coding challenges.**
+- **Use the #all? method**
+- **Use the #any? method**
+- **Use the #filter method**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
@@ -49,9 +50,9 @@ The Morse-Decode is the first project in Ruby, in this project we solve the basi
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone https://github.com/MozamelJawad/Morse-Decode
+- git clone https://github.com/mershark/Enumerable.git
 
-- cd Morse-Decode
+- cd Enumerable
 
 <!-- AUTHORS -->
 
@@ -80,8 +81,7 @@ Clone this repository to your desired folder:
 
 ## 🔭Features <a name="future-features"></a>
 
-- **Additional Morse Decoding**
-- **Additional Features**
+- **MAdditonal methods like #max, #min, and #sort**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MozamelJawad/Morse-Decode/issues).
+Feel free to check the [issues page](https://github.com/mershark/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
